@@ -124,4 +124,3 @@ This repository contains files and documentation for the ALX pre-course. It incl
 
 Feel free to explore the repository and make any necessary changes or contributions.
 
-```
